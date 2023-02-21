@@ -1,4 +1,4 @@
 git@github.com:v-strings/video.git
 git@github.com:executablebooks/sphinx-design.git
-
+git@github.com:pradyunsg/furo.git
 
