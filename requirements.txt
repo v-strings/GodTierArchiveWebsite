@@ -1,4 +1,5 @@
 git+https://github.com/v-strings/video
 git+https://github.com/executablebooks/sphinx-design
 git+https://github.com/pradyunsg/furo
+git+https://github.com/wpilibsuite/sphinxext-opengraph
 

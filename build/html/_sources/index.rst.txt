@@ -3,6 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+:og:description: LTG GG
+:og:image: https://cdn.discordapp.com/attachments/836639325961322546/1077627814662123632/magik.jpg
+:og:image:alt: https://cdn.discordapp.com/attachments/836639325961322546/1077604723315716247/outside-guide-grand-canyon_h.png
+
+
 GodTierArchive
 ===============
  The GodTierArchive features every LTG vod I've been able to find on the internet or download myself is viewable spread across 3 odysee accounts. The current grand total is 1420 vods, probably closer to 1300 from some being split into multiple files.
