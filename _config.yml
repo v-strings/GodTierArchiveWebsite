@@ -1,0 +1,4 @@
+sphinx:
+  config:
+    templates_path:
+      - _templates
