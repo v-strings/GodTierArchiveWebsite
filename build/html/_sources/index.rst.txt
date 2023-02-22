@@ -26,5 +26,6 @@ A archive of all Lowtiergod livestreams from 2018-Present
 
    channels/index
    vods/index
+   clips/index
 
    community

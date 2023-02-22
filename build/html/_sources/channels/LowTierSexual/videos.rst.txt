@@ -16,7 +16,8 @@ Videos
 
     Low Tier God Gets His Heart Broken On Stream
     --------------------------------------------
-    .. video:: https://ia902207.us.archive.org/31/items/low-tier-god-from-pimp-to-simp-full-movie-qwl-bue-0944/Low%20Tier%20God%20Gets%20His%20Heart%20Broken%20On%20Stream%20%5BObKEYovdaOc%5D.mp4
+    
+    .. video:: https://odysee.com/$/embed/@AlphaNerd:8/meta-has-started-selling-verifications:b?r=c4eGNonX87ro8Gu3uzrY5jCJrT2vojYw
         :width: 500
         :height: 300
         :poster: https://ia802207.us.archive.org/31/items/low-tier-god-from-pimp-to-simp-full-movie-qwl-bue-0944/low-tier-god-from-pimp-to-simp-full-movie-qwl-bue-0944.thumbs%2FLow%20Tier%20God%20Gets%20His%20Heart%20Broken%20On%20Stream%20%5BObKEYovdaOc%5D_000032.jpg
