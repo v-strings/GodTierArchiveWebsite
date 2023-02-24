@@ -3,10 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-:og:description: LTG GG
-:og:image: https://cdn.discordapp.com/attachments/836639325961322546/1077627814662123632/magik.jpg
-:og:image:alt: https://cdn.discordapp.com/attachments/836639325961322546/1077604723315716247/outside-guide-grand-canyon_h.png
+.. meta::
 
+   :description: An archive of most past vods by LTG
 
 GodTierArchive
 ===============
@@ -19,6 +18,11 @@ the Lowtiergod archive is now complete.
 :doc:`vods/index`
 ----------------------
 A archive of all Lowtiergod livestreams from 2018-Present
+
+:doc:`clips/index`
+----------------------
+A scrubbed  archived ltg streams for good clips.
+
 
 
 .. note::

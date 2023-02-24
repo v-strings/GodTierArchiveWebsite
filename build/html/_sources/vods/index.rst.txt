@@ -1,5 +1,5 @@
-Achived Vods
-============
+Archived Vods
+==============
 
 .. toctree:: 
    :maxdepth: 1

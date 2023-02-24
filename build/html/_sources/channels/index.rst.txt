@@ -5,4 +5,5 @@ Channels
    :maxdepth: 1
 
    LowTierSexual/index
+   Cowboy Revenge/index
    

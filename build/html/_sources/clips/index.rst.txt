@@ -1,4 +1,4 @@
-Channels 
+LTG Clips
 ==========
 
 .. toctree:: 

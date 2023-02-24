@@ -42,7 +42,7 @@ July 2018
 
 * [7.6.18, 2 parts]- `2018 07 06 Early Morning:0 <https://odysee.com/@Dr.BroadwayMk.II:0/2018-07-06-Early-Morning:0>`_
 * [7.6.18, 2 parts] - `2018 07 06 Late Night:7 <https://odysee.com/@Dr.BroadwayMk.II:0/2018-07-06-Late-Night:7>`_
-* [7.8.18] - `2018 07 08:4 <https://odysee.com/@Dr.BroadwayMk.II:0/2018-07-08:4>`_
+* [7.8.18] - `2018 07 08:4 <https:/ /odysee.com/@Dr.BroadwayMk.II:0/2018-07-08:4>`_
 
 
 * [7.9.18, 3 parts] - `2018 07 09 Part 1:7 <https://odysee.com/@Dr.BroadwayMk.II:0/2018-07-09-Part-1:7>`_

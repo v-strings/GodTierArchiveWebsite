@@ -25,3 +25,8 @@ exclude_patterns = []
 
 html_theme = 'furo'
 html_static_path = ['_static']
+source_encoding = 'utf-8-sig'
+
+
+ogp_site_url = "https://godtierarchivewebsite.readthedocs.io"
+ogp_image = "https://cdn.discordapp.com/attachments/836639325961322546/1077627814662123632/magik.jpg"
