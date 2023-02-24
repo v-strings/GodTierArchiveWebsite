@@ -6,23 +6,25 @@
 The Peanut Butter Complex
 ===============
   This Site is the main hub for LowTierGod-related Archives. It includes a troll channel archive (over 4.5K videos), a massive vod archive (around 1.5K), and links to a large clip archive, Low Tier God reuploads, and my troll channel.
+  
+  This archive wouldn't have been possible without youtube-dl / yt-dlp, a very simple command-line youtube downloader. It's a must-have if you're serious about archiving videos or streams.
+  https://github.com/yt-dlp/yt-dlp
    
----------------
+---------------USEFUL LINKS---------------
    
   The Troll Channel Spreadsheet: https://docs.google.com/spreadsheets/d/1GALskO5OexjzF2O_KipRHaxnfpIyD0jtFT1ndmlgqOY/edit?usp=sharing
+  
   The Vod Archive Document: https://docs.google.com/document/d/1qrNn7OaqZU1EovvLLPOuuy-L825xotnLGxwBilithEY/edit?usp=sharing
   
----------------
+---------------My Troll Channel---------------
    
-   My Troll Channel (mostly reuploads, but much faster than archive.org):
+   (mostly reuploads, but much faster than archive.org)
    
    https://odysee.com/@Peanutbuttercomplex:3
    
    https://www.youtube.com/@peanutbuttercomplex3 [On Lockdown]
   
-  ---------------
-   
-   Low Tier God Reuploads:
+  ---------------LowTierGod Reuploads---------------
    
    https://rumble.com/c/LowTierPersonalityDisorder
    
@@ -50,7 +52,7 @@ The current grand total is 1461 vods, probably closer to 1200 from some being da
 
 :doc:`clips/index`
 ----------------------
-A Very large Collection of LTG stream clips clipped from raw vods with VLC media player and ffmpeg. Very good source for making troll videos. They do have some dead air so some editing is required; I recommend a KHG Team Sony Vegas crack.
+A Very large Collection of LTG stream clips clipped from raw vods with VLC media player and ffmpeg. Very good source for making troll videos. They do have some dead air at the beginning and end, so some editing is required; I recommend a KHG Team Sony Vegas crack.
 
 https://archive.org/details/@delawn_sparwow
 
