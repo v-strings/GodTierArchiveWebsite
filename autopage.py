@@ -3,10 +3,10 @@ import os
 import urllib
 
 # ACCESS_KEY = 
-CHANNEL = "cowboyrevenge"
+CHANNEL = "greedarchive"
 # SECRET_KEY = 
 IndexTemplate = ["[channel-name]", "\n=","\n", "\n", "\n", ".. toctree:: \n\t:maxdepth: 2\n\n\tvideos"]
-VideoTemplate = ["Archived Videos", "\n================\n","\n.. _Videos:\n\nVideos\n-------\n"]
+VideoTemplate = ["Archived Videos", "\n================\n", "\nTermination Reason\n ------------------\n" , "\n.. _Videos:\n\nVideos\n-------\n"]
 
 def main():
     creator:str = ""
@@ -52,9 +52,9 @@ def create_folder_template(name,title,data):
                     writepath =  data.d1 +  data.dir + "/" + i["name"]
                     writepath = "https://" + urllib.parse.quote(writepath.encode('utf8'))
                     f.write("\n\n\t.. video:: " + writepath)
-                    f.write("\n\t\t:width: 500")
-                    f.write("\n\t\t:height: 500")
-                    f.write("\n\t\t::poster:: " + writepath.replace(".mp4",'.jpg'))
+                    f.write("\n\t\t:width: 640")
+                    f.write("\n\t\t:height: 480")
+                    f.write("\n\t\t:poster: " + writepath.replace(".mp4",'.jpg'))
                     f.write("\n\n")
             
     else:
