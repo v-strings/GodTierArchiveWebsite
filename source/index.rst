@@ -24,7 +24,7 @@ The Peanut Butter Complex
    
    https://www.youtube.com/@peanutbuttercomplex3 [On Lockdown]
   
-  ---------------LowTierGod Reuploads---------------
+---------------LowTierGod Reuploads---------------
    
    https://rumble.com/c/LowTierPersonalityDisorder
    
@@ -54,7 +54,7 @@ The current grand total is 1461 vods, probably closer to 1200 from some being da
 ----------------------
 A Very large Collection of LTG stream clips clipped from raw vods with VLC media player and ffmpeg. Very good source for making troll videos. They do have some dead air at the beginning and end, so some editing is required; I recommend a KHG Team Sony Vegas crack.
 
-https://archive.org/details/@delawn_sparwow
+   https://archive.org/details/@delawn_sparwow
 
 
 
