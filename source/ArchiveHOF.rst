@@ -54,7 +54,7 @@ People who made this project possible
 
 .. card:: **Dr. Broadway**
 
-    .. image:: ../source/images/channel_images/
+    .. image:: ../source/images/channel_images/dr.broadway.png
         :width: 80
         :height: 80
     +++
