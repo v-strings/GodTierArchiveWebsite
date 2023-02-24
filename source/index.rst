@@ -3,43 +3,56 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-GodTierArchive
+The Peanut Butter Complex
 ===============
-  This Site is the main hub for LowTierGod-related Archives. This is only necessary because LTG tries to hide content about him. It features:
+  This Site is the main hub for LowTierGod-related Archives. It includes a troll channel archive (over 4.5K videos), a massive vod archive (around 1.5K), and links to a large clip archive, Low Tier God reuploads, and my troll channel.
    
+---------------
    
-  Every Terminated LTG Troll channel, some by LowTierGod but most from Superhound. Over 4500 LTG videos have been deleted, but archived.
-  The Master-Spreadsheet: https://docs.google.com/spreadsheets/d/1GALskO5OexjzF2O_KipRHaxnfpIyD0jtFT1ndmlgqOY/edit?usp=sharing
+  The Troll Channel Spreadsheet: https://docs.google.com/spreadsheets/d/1GALskO5OexjzF2O_KipRHaxnfpIyD0jtFT1ndmlgqOY/edit?usp=sharing
+  The Vod Archive Document: https://docs.google.com/document/d/1qrNn7OaqZU1EovvLLPOuuy-L825xotnLGxwBilithEY/edit?usp=sharing
+  
+---------------
    
+   My Troll Channel (mostly reuploads, but much faster than archive.org):
    
-  My stream archive, consisting of every LTG vod I've been able to find on the internet or download myself, viewable spread across 3 odysee accounts. 
-  The current grand total is 1461 vods, probably closer to 1200 from some being days being split into multiple files. There are large, but unavoidable gaps in 2016, early 2017, and early 2018.
-   [2021-Present] https://odysee.com/@pneuth:b
-   [2018-2020] https://odysee.com/@Dr.BroadwayMk.II:0
-   [2020-2021] https://odysee.com/@Dr.BroadwayMk.III:a
+   https://odysee.com/@Peanutbuttercomplex:3
    
-   
-   A Very large Collection of LTG stream clips, made with VLC media player and ffmpeg that can be used for making troll videos. 
-   https://archive.org/details/@delawn_sparwow
-   I recommend a KHG Team Sony Vegas crack for making troll compilations.
+   https://www.youtube.com/@peanutbuttercomplex3 [On Lockdown]
+  
+  ---------------
    
    Low Tier God Reuploads:
+   
    https://rumble.com/c/LowTierPersonalityDisorder
+   
    https://odysee.com/@LowTierGod:4
-   [Youtube Version was terminated by Superhound]
+   
    
 
 :doc:`channels/index`
 ----------------------
-the Lowtiergod archive is now complete.
+GodTierArchive is an archive.org account preserving every LowTierGod troll channel terminated after June 2021 (when I started archiving). OVER HALF of ALL LTG-related videos on youtube have been wiped in less than 2 years (OVER 4500 VIDEOS), so this archive exists to ensure troll channels are preserved. 
+
+With recent incidents of an incel copyright troll removing thousands of videos in less than a month, it's more important than ever to have an updated archive. In any case, all these videos are preserved on both Stainbine and Immo342's hardrives.
 
 :doc:`vods/index`
 ----------------------
-An archive of almost all LowTierGod livestreams from 2018-Present (with some from 2016 and 2017)
+The complete LowTierGod stream archive, consisting of every LTG vod I've been able to find on the internet or download myself, viewable spread across 3 odysee accounts. 
+
+   [2021-Present] https://odysee.com/@pneuth:b
+   
+   [2018-2020] https://odysee.com/@Dr.BroadwayMk.II:0
+   
+   [2020-2021] https://odysee.com/@Dr.BroadwayMk.III:a
+
+The current grand total is 1461 vods, probably closer to 1200 from some being days being split into multiple files. There are large, but unavoidable gaps in 2016, early 2017, and early 2018. Now that LTG's youtube is gone, and twitch might be aswell, the older vods are lost to time.
 
 :doc:`clips/index`
 ----------------------
-Scrubbing through archived ltg streams for good clips
+A Very large Collection of LTG stream clips clipped from raw vods with VLC media player and ffmpeg. Very good source for making troll videos. They do have some dead air so some editing is required; I recommend a KHG Team Sony Vegas crack.
+
+https://archive.org/details/@delawn_sparwow
 
 
 
