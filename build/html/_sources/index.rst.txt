@@ -3,10 +3,6 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. meta::
-
-   :description: An archive of most past vods by LTG
-
 GodTierArchive
 ===============
  The GodTierArchive features every LTG vod I've been able to find on the internet or download myself is viewable spread across 3 odysee accounts. The current grand total is 1420 vods, probably closer to 1300 from some being split into multiple files.
@@ -36,5 +32,5 @@ A scrubbed  archived ltg streams for good clips.
    channels/index
    vods/index
    clips/index
-
+   ArchiveHOF
    community
