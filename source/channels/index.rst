@@ -46,6 +46,13 @@ Channels
       :text-align: center
       :columns: 4
 
+   .. grid-item-card::  **Crimson**
+      :img-bottom: https://cdn.discordapp.com/attachments/477547617404846111/1080408683902677022/temp_16x91.png
+      :link: crim
+      :link-type: ref
+      :text-align: center
+      :columns: 4
+
    
 
 
@@ -60,3 +67,4 @@ Channels
    CAMERA OFF MIC MUTED/index
    Greed/index
    LowTierSuspicious/index
+   Crimson/index

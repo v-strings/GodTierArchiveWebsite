@@ -3,7 +3,7 @@ import os
 import urllib
 
 # ACCESS_KEY = 
-CHANNEL = "greedarchive"
+CHANNEL = "crimsonarchive"
 # SECRET_KEY = 
 IndexTemplate = ["[channel-name]", "\n=","\n", "\n", "\n", ".. toctree:: \n\t:maxdepth: 2\n\n\tvideos"]
 VideoTemplate = ["Archived Videos", "\n================\n", "\nTermination Reason\n ------------------\n" , "\n.. _Videos:\n\nVideos\n-------\n"]
