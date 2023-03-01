@@ -5,14 +5,14 @@
 
 The Peanut Butter Complex
 ==========================
-  This Site is the main hub for LowTierGod-related Archives. It includes a troll channel archive (over 4.5K videos), a massive vod archive (around 1.5K), and links to a large clip archive, Low Tier God reuploads, and my troll channel.
+This Site is the main hub for LowTierGod-related Archives. It includes a troll channel archive (over 4.5K videos), a massive vod archive (around 1.5K), and links to a large clip archive, Low Tier God reuploads, and my troll channel.
   
   This archive wouldn't have been possible without `youtube-dl / yt-dlp <https://github.com/yt-dlp/yt-dlp>`_, a very simple command-line youtube downloader. It's a must-have if you're serious about archiving videos or streams.
  
    
 :doc:`channels/index`
 ----------------------
-GodTierArchive is an archive.org account preserving every LowTierGod troll channel terminated after June 2021 (when I started archiving). OVER HALF of ALL LTG-related videos on youtube have been wiped in less than 2 years (OVER 4500 VIDEOS), so this archive exists to ensure troll channels are preserved. 
+GodTierArchive is an archive.org account preserving every LowTierGod troll channel terminated after June 2021 (when I started archiving). 
 
 .. note::
 
