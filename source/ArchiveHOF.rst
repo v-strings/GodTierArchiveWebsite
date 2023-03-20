@@ -9,7 +9,8 @@ People who made this project possible
         :width: 80
         :height: 80
     +++
-    The main reason why this website could be made. Starting in mid 2021 he started archiving hundreds of LTG troll channels and later on archived every LowTierGod Stream, mainly in 2022. Since 2022 he's had several other projects including clipping LTG streams into a massive clip archive, reuploading every LowTierGod video to various sites, and the Peanut Butter Complex channels.
+    The main reason why this website could be made, along with youtube-dl / yt-dlp. Starting in mid 2021 he started archiving dozens of LTG troll channels since nobody else was doing it and LTG loved striking them down, and it was kinda fun. Also archived some LTG streams in 2021, but made it 100% automated in 2022. 
+    Since 2022 he's had several other projects including clipping LTG streams into a massive clip archive, reuploading every LowTierGod video to various sites, and the Peanut Butter Complex channels.
     
     His Channel: https://odysee.com/@Peanutbuttercomplex:3
     
@@ -27,7 +28,7 @@ People who made this project possible
         :width: 80
         :height: 80
     +++
-    Automated the archiving process and archives Immo342 vods, but also gives backup LTG vods to Stainbine if needed. Helped Stainbine with lots of stuff.
+    Automated the archiving process and archives Immo342 vods, and helped Stainbine with lots of technical stuff. Also gives backup LTG vods to Stainbine if needed. 
     
     Immo342 Vods: https://archive.org/details/@immo342vods
 
@@ -48,7 +49,7 @@ People who made this project possible
         :width: 80
         :height: 80
     +++
-    A prolific LowTierGod Stream archiver who has stayed quiet in the LTG scene. He's filled in the gap of LTG streams from Mid-2019 until Mid-2020, but is still going. His youtube was recently terminated by Superhound, but his vods remain on odysee and bitchute.
+    Another prolific stream archiver who has stayed quiet in the LTG scene. He's filled in the gap of LTG streams from Mid-2019 until Mid-2020, but is still going. His youtube was recently terminated by Superhound, but his vods remain (albiet in 480p instead of 720p) on odysee and bitchute.
     
     His Main Channel: https://www.bitchute.com/channel/PuuacUVKKZMe/
     
@@ -61,6 +62,6 @@ People who made this project possible
         :width: 80
         :height: 80
     +++
-    A mysterious archive.org poster who archived huge quantities of LowTierGod streams from Mid-2018 until Early 2020. Stainbine believes he might be Homura Akemi's first attempt at vod archiving, eventually moving to bitchute. Except bitchute has a 2gb upload while archive has none, so this might not make sense. 
+    A mysterious archive.org poster who archived huge quantities of LowTierGod streams from Mid-2018 until Early 2020. Stainbine believes he could be Homura Akemi's first attempt at vod archiving, eventually moving to bitchute. But bitchute has 2gb upload limits unlike archive.org, so it remains murky.
     
     His Account: https://archive.org/details/@dr_broadway
