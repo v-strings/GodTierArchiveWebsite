@@ -1,7 +1,7 @@
 Channels 
 ==========
 
- OVER HALF of ALL LTG-related videos on youtube have been wiped in less than 2 years (OVER 4500 VIDEOS), so this archive exists to ensure troll channels are preserved.
+OVER HALF of all LTG-related videos on youtube have been wiped in less than 2 years (over 4500 videos), I know this since I saved them to a master playlist and kept track. So this archive exists to ensure troll channels are preserved.
 
 .. grid:: 2
    :gutter: 2
