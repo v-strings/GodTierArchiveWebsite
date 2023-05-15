@@ -5,7 +5,7 @@
 
 The Peanut Butter Complex
 ==========================
-This Site is the main hub for LowTierGod-related Archives. It includes links to my troll channel archive (over 4.5K videos), a massive vod archive (around 1.5K), and a large rage clip archive, Low Tier God reuploads, and my troll channel.
+This Site is the main hub for LowTierGod-related Archives. It includes links to my troll channel archive (over 4.5K videos), all LTG stream vods 2018-2023 (around 1.5K), a large rage clip archive, Low Tier God reuploads, and my troll channel.
   
   My archive projects wouldn't have been possible without `youtube-dl / yt-dlp <https://github.com/yt-dlp/yt-dlp>`_, a very simple command-line youtube downloader. It's a must-have if you're serious about archiving videos or streams. You can archive entire youtube channels with thumbnails and comments in 1 simple command.
  
@@ -20,7 +20,7 @@ GodTierArchive is an archive.org account preserving every LowTierGod troll chann
 
 :doc:`vods/index`
 ----------------------
-The complete LowTierGod stream archive, consisting of every LTG vod I've been able to find on the internet or download myself, viewable spread across 3 odysee accounts. 
+The complete LowTierGod stream archive, consisting of every LTG vod I've been able to find on the internet or download myself, viewable spread across 3 odysee accounts. Some are inevitably missing probably forever, but this is far more complete than I expected.
 
    
 :doc:`clips/index`
