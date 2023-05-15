@@ -65,3 +65,13 @@ People who made this project possible
     A mysterious archive.org poster who archived huge quantities of LowTierGod streams from Mid-2018 until Early 2020. Stainbine believes he could be Homura Akemi's first attempt at vod archiving, eventually moving to bitchute. But bitchute has 2gb upload limits unlike archive.org, so it remains murky.
     
     His Account: https://archive.org/details/@dr_broadway
+    
+.. card:: **Immo342**
+
+    .. image:: ../source/images/channel_images/immo342.jps
+        :width: 80
+        :height: 80
+    +++
+    Iconic LTG troll and restreamer, immo is a staple of the community and makes dale's streams much more entertaining. On several occasions he has mentally touched LTG's psyche, especially from the thousands of dollars made from restreaming. Also streams LTG troll channels (including terminated ones) 24/7 when not restreaming. 
+    https://www.youtube.com/@immo342/streams
+    https://trovo.live/s/Immo342
